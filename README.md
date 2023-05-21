@@ -1,1 +1,3 @@
 # NLP_Pre-processing
+
+In this repository, I used NLTK and Spacy libraries to perform some pre-processing tasks such as tokenization, parsing, stemming, ...
